@@ -2,3 +2,4 @@ ipywidgets
 pandas
 backtrader
 pyfolio
+voila
